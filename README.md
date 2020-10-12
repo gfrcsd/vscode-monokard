@@ -7,9 +7,9 @@ Visual Studio Code theme inspired by the famous Monokai color scheme with a flat
 Visit the [Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=gfrcsd.monokard)
 
 ### Command Palette
-Press `ctrl/Cmd + shift + p` to launch the command palette and run
+Press `ctrl/Cmd + p` to launch the command palette and run
 ```
-ext install monokard
+ext install gfrcsd.monokard
 ```
 
 ## Screenshot
