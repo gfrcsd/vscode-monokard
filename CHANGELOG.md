@@ -1,5 +1,9 @@
 # Change Log
 
+## Version 1.0.2
+
+- Update logotype & icon
+
 ## Version 1.0.1
 
 - Add badges in README
