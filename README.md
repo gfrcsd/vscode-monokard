@@ -1,6 +1,14 @@
 ![Monokard Theme for Visual Studio Code](/images/logotype.png)
 
-Visual Studio Code theme inspired by the famous Monokai color scheme with a flat dark UI
+
+<p align="center">Visual Studio Code theme inspired by the famous Monokai color scheme with a flat dark UI</P>
+<p align="center">
+    <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/gfrcsd.monokard?color=3bc0f0">
+    <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/gfrcsd.monokard?color=F92672">
+    <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/gfrcsd.monokard?color=0fd589">
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-fd971e">
+</p>
+
 
 ## Installation
 ### Extension Marketplace
