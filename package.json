@@ -6,6 +6,7 @@
     "repository": "https://github.com/gfrcsd/vscode-monokard.git",
     "license": "MIT",
     "author": "gfrcsd",
+    "publisher": "gfrcsd",
     "engines": {
         "vscode": "^1.12.0"
     },
