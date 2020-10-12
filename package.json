@@ -2,7 +2,7 @@
     "name": "monokard",
     "displayName": "Monokard Theme",
     "description": "Inspired by the famous Monokai color scheme with a flat dark UI",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": "https://github.com/gfrcsd/vscode-monokard.git",
     "license": "MIT",
     "author": "gfrcsd",

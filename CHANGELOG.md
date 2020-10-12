@@ -1,5 +1,10 @@
 # Change Log
 
+## Version 1.0.1
+
+- Add badges in README
+- Add [See also](https://github.com/gfrcsd/vscode-monokard#see-also) section in README
+
 ## Version 1.0.0
 
 - Initial release

@@ -1,6 +1,5 @@
 ![Monokard Theme for Visual Studio Code](/images/logotype.png)
 
-
 <p align="center">Visual Studio Code theme inspired by the famous Monokai color scheme with a flat dark UI</P>
 <p align="center">
     <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/gfrcsd.monokard?color=3bc0f0">
@@ -9,13 +8,12 @@
     <img alt="License" src="https://img.shields.io/badge/License-MIT-fd971e">
 </p>
 
-
 ## Installation
 ### Extension Marketplace
 Visit the [Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=gfrcsd.monokard)
 
 ### Command Palette
-Press `ctrl/Cmd + p` to launch the command palette and run
+Press `Ctrl/Cmd + p` to launch the command palette and run
 ```
 ext install gfrcsd.monokard
 ```
@@ -39,3 +37,6 @@ View the [changelog](CHANGELOG.md)
 
 ## Any problem
 This is very much a work in progress and while I personally use this theme, I only use a few languages. If you see anything that looks out of place or have an improvement idea, please open a [new issue](https://github.com/gfrcsd/vscode-monokard/issues/new)
+
+## See also
+[Monokard for Windows Terminal](https://github.com/gfrcsd/wt-monokard)
