@@ -24,7 +24,7 @@ ext install gfrcsd.monokard
 
 ## Preview
 
-![Theme Preview](/images/preview.svg)
+![Theme Preview](/images/preview.png)
 
 ## Customisation
 
