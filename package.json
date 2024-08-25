@@ -1,40 +1,40 @@
 {
-    "name": "monokard",
-    "displayName": "Monokard Theme",
-    "description": "Inspired by the famous Monokai color scheme with a flat dark UI",
-    "version": "1.0.2",
-    "repository": "https://github.com/gfrcsd/vscode-monokard.git",
-    "license": "MIT",
-    "author": "gfrcsd",
-    "publisher": "gfrcsd",
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#272727",
-        "theme": "dark"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "monokard",
-        "theme",
-        "dark",
-        "flat",
-        "monokai"
-    ],
-    "bugs": {
-        "url": "https://github.com/gfrcsd/vscode-monokard/issues"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokard",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokard-color-theme.json"
-            }
-        ]
-    }
+  "name": "monokard",
+  "displayName": "Monokard Theme",
+  "description": "Inspired by the famous Monokai color scheme with a flat dark UI",
+  "version": "2.0",
+  "repository": "https://github.com/gfrcsd/vscode-monokard.git",
+  "license": "MIT",
+  "author": "gfrcsd",
+  "publisher": "gfrcsd",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#272727",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokard",
+    "theme",
+    "dark",
+    "flat",
+    "monokai"
+  ],
+  "bugs": {
+    "url": "https://github.com/gfrcsd/vscode-monokard/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokard-color-theme.json"
+      }
+    ]
+  }
 }

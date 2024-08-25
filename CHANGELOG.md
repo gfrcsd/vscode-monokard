@@ -1,4 +1,8 @@
-# Change Log
+# Changelog
+
+## Version 2.0
+
+- Major revamp improving layout distinction
 
 ## Version 1.0.2
 
